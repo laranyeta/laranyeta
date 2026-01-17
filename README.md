@@ -6,16 +6,18 @@
   <br>
 
   <h3 align="center">
-    Computer Science Student @ UAB <br>
-    Research Internship @ Computer Vision Center <br> <br>
-    Specialized in Computer Vision, Data Analysis & AI
+    <samp>
+      Computer Science Student @ UAB <br>
+      Research Internship @ Computer Vision Center <br> <br>
+      Specialized in Computer Vision, Data Analysis & AI
+    </samp>
   </h3>
 
   <p align="center">
-    <a href="laracastillejo.com">
+    <a href="https://laracastillejo.com">
       <img src="https://img.shields.io/badge/Visit_My_Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
     </a>
-    <a href="www.linkedin.com/in/lara-castillejo-roig-1032b7269">
+    <a href="https://www.linkedin.com/in/lara-castillejo-roig-1032b7269">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
@@ -23,20 +25,24 @@
   <br>
 
   <p align="center" width="60%">
-    I am a fourth-year Computer Science student passionate about teaching machines how to "see" and "think". <br>
-    Always looking for new challenges that help me grow and apply my knowledge in real-world projects.
+    <samp>
+      I am a fourth-year Computer Science student passionate about teaching machines how to "see" and "think". <br>
+      Always looking for new challenges that help me grow and apply my knowledge in real-world projects.
+    </samp>
   </p>
 
 </div>
 
 <br>
 
-<h2 align="center">TECH STACK</h2>
+<h2 align="center">
+  <samp><b>&lt; TECH STACK /&gt;</b></samp>
+</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="120"><strong>Languages</strong></td>
+      <td align="center" width="120"><samp><b>Languages</b></samp></td>
       <td align="center">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -47,7 +53,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="120"><strong>AI & Data</strong></td>
+      <td align="center" width="120"><samp><b>AI & Data</b></samp></td>
       <td align="center">
          <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
          <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
@@ -60,7 +66,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="120"><strong>Tools & Cloud</strong></td>
+      <td align="center" width="120"><samp><b>Tools & Cloud</b></samp></td>
       <td align="center">
          <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
          <img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge" alt="OpenGL">
@@ -74,12 +80,18 @@
 
 <br>
 
-<h2 align="center">FEATURED PROJECT</h2>
+<h2 align="center">
+  <samp><b>&lt; FEATURED PROJECT /&gt;</b></samp>
+</h2>
 <div align="center">
   <a href="https://github.com/joanmarc28/Robocat">
     <img src="https://raw.githubusercontent.com/joanmarc28/Robocat/main/gallery/RoboCat_Logo.svg" width="180" alt="RoboCat">
   </a>
-  <p><strong>Co-Creator of RoboCat</strong>: An autonomous quadruped robot for urban mobility enforcement.</p>
+  <p>
+    <samp>
+      <strong>Co-Creator of RoboCat</strong>: An autonomous quadruped robot for urban mobility enforcement.
+    </samp>
+  </p>
 </div>
 
 <br>
