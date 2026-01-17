@@ -1,7 +1,7 @@
 <div align="center">
 
   <div align="center">
-    <img src="banner.png" width="60%" alt="github banner" />
+    <img src="banner1.png" width="60%" alt="github banner" />
   </div>
   <br>
 
