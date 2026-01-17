@@ -1,13 +1,13 @@
 <div align="center">
 
   <div align="center">
-    <img src="img/banner.png" width="100%" alt="github banner" />
+    <img src="banner.png" width="60%" alt="github banner" />
   </div>
   <br>
 
   <h3 align="center">
     Computer Science Student @ UAB <br>
-    Research Internship @ Computer Vision Centre <br> <br>
+    Research Internship @ Computer Vision Center <br> <br>
     Specialized in Computer Vision, Data Analysis & AI
   </h3>
 
