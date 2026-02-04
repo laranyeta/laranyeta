@@ -8,8 +8,8 @@
   <h3 align="center">
     <samp>
       Computer Science Student @ UAB <br>
-      Research Internship @ Computer Vision Center <br> <br>
-      Specialized in Computer Vision, Data Analysis & AI
+      Research Intern @ Computer Vision Center <br> <br>
+      Specialized in Machine Learning, Data Analysis and Deep Learning
     </samp>
   </h3>
 
