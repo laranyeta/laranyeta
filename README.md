@@ -1,7 +1,7 @@
 <div align="center">
 
   <div align="center">
-    <img src="banner.png" width="60%" alt="github banner" />
+    <img src="banner.png" width="500" alt="github banner" />
   </div>
   <br>
 
@@ -9,7 +9,7 @@
     <samp>
       Computer Science Student @ UAB <br>
       Machine Learning Engineer Intern @ Computer Vision Center <br> <br>
-      Specialized in Machine Learning, Data Analysis and Deep Learning
+      Specialized in Machine Learning, Computer Vision & Data Analysis
     </samp>
   </h3>
 
@@ -77,21 +77,4 @@
     </tr>
   </table>
 </div>
-
-<br>
-
-<h2 align="center">
-  <samp><b>&lt; FEATURED PROJECT /&gt;</b></samp>
-</h2>
-<div align="center">
-  <a href="https://github.com/joanmarc28/Robocat">
-    <img src="https://raw.githubusercontent.com/joanmarc28/Robocat/main/gallery/RoboCat_Logo.svg" width="180" alt="RoboCat">
-  </a>
-  <p>
-    <samp>
-      <strong>Co-Creator of RoboCat</strong>: An autonomous quadruped robot for urban mobility enforcement.
-    </samp>
-  </p>
-</div>
-
 <br>
