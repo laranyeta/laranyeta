@@ -7,9 +7,9 @@
 
   <h3 align="center">
     <samp>
-      Computer Science Student @ UAB <br>
-      Machine Learning Engineer Intern @ CVC <br> <br>
-      Specialized in Machine Learning, Computer Vision & Data Analysis
+      Computer Science Graduate @ UAB <br>
+      Former Machine Learning Engineer Intern @ CVC <br> <br>
+      Specialized in Machine Learning & Computer Vision
     </samp>
   </h3>
 
@@ -26,7 +26,7 @@
 
   <p align="center" width="60%">
     <samp>
-      I am a fourth-year Computer Science student passionate about teaching machines how to "see" and "think". <br>
+      I am a Computer Science graduate passionate about teaching machines how to "see" and "think". <br>
       Always looking for new challenges that help me grow and apply my knowledge in real-world projects.
     </samp>
   </p>
@@ -77,4 +77,3 @@
     </tr>
   </table>
 </div>
-<br>
