@@ -7,8 +7,8 @@
 
   <h3 align="center">
     <samp>
-      Computer Science Graduate @ UAB <br>
-      Former Machine Learning Engineer Intern @ CVC <br> <br>
+      BSc Computer Science @ UAB <br>
+      Machine Learning Engineer Intern @ CVC <br> <br>
       Specialized in Machine Learning & Computer Vision
     </samp>
   </h3>
