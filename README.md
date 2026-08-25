@@ -17,7 +17,7 @@
     <a href="https://laracastillejo.com">
       <img src="https://img.shields.io/badge/Visit_My_Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
     </a>
-    <a href="https://www.linkedin.com/in/lara-castillejo-roig-1032b7269">
+    <a href="https://www.linkedin.com/in/lara-castillejo-roig">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
