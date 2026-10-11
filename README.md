@@ -1,7 +1,7 @@
 <div align="center">
 
   <div align="center">
-    <img src="banner.png" width="500" alt="github banner" />
+    <img width="600" alt="Image" src="https://github.com/user-attachments/assets/22cb6fa9-f037-423f-b1ef-8e2bbc74ae80" />
   </div>
   <br>
 
